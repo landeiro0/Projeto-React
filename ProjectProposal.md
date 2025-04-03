@@ -1,4 +1,5 @@
 Conversor de Moedas
+
 O presente projeto consiste numa aplicação mobile desenvolvida em React Native com Expo, cujo objetivo é
 permitir ao utilizador converter valores entre diferentes moedas com base em taxas de câmbio obtidas em
 tempo real através da API pública Frankfurter.app. A aplicação cumpre todos os requisitos definidos: possui
