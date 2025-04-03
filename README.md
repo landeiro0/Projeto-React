@@ -12,7 +12,7 @@ Aplicação mobile desenvolvida em **React Native com Expo** que permite convert
 
 ## 📸 Video Sobre o Funcionamento
 
-> _([Adiciona aqui screenshots da Home, Conversor, Histórico, Menu](https://youtube.com/shorts/uDKZ9ruxXww?feature=share))_
+> _([CLique para ver o Video](https://youtube.com/shorts/uDKZ9ruxXww?feature=share))_
 
 ---
 
